@@ -2,6 +2,7 @@
 title: Creating a Release Schedule
 creation_date: June 24, 2023
 modification_date: June 24, 2023
+layout: post
 ---
 
 
